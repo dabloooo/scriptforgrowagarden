@@ -1,0 +1,1 @@
+so to insall this ahk you need a ahk 1.1v not 2.0v press f1 to start press f2 to bind sell press f3 to bind garden then press f4 to bind i want to sell my inventory (this is only beta its in work rn) and it only walks forth and backth so place your cam in fornt of your graden so that it can walk (copyright dabloooo)
